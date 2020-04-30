@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 """
-SQL quries to use in ETL
+'Infrastructure as Code'
 
 
 @author: udacity, ucaiado
